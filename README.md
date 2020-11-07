@@ -1,2 +1,2 @@
 # Bootstrap-4
-Preactice Bootstrap
+Practice Bootstrap
